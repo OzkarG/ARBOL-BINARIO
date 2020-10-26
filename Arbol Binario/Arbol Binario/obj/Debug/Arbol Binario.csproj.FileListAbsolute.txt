@@ -1,0 +1,68 @@
+C:\Users\Francisco\Desktop\pinco\UDB\progra4\Lab\Guia 6 LP4\Arbol Binario\Arbol Binario\bin\Debug\Arbol Binario.exe.config
+C:\Users\Francisco\Desktop\pinco\UDB\progra4\Lab\Guia 6 LP4\Arbol Binario\Arbol Binario\bin\Debug\Arbol Binario.exe
+C:\Users\Francisco\Desktop\pinco\UDB\progra4\Lab\Guia 6 LP4\Arbol Binario\Arbol Binario\bin\Debug\Arbol Binario.pdb
+C:\Users\Francisco\Desktop\pinco\UDB\progra4\Lab\Guia 6 LP4\Arbol Binario\Arbol Binario\obj\Debug\Arbol Binario.csprojResolveAssemblyReference.cache
+C:\Users\Francisco\Desktop\pinco\UDB\progra4\Lab\Guia 6 LP4\Arbol Binario\Arbol Binario\obj\Debug\Arbol_Binario.Form1.resources
+C:\Users\Francisco\Desktop\pinco\UDB\progra4\Lab\Guia 6 LP4\Arbol Binario\Arbol Binario\obj\Debug\Arbol_Binario.Properties.Resources.resources
+C:\Users\Francisco\Desktop\pinco\UDB\progra4\Lab\Guia 6 LP4\Arbol Binario\Arbol Binario\obj\Debug\Arbol Binario.csproj.GenerateResource.Cache
+C:\Users\Francisco\Desktop\pinco\UDB\progra4\Lab\Guia 6 LP4\Arbol Binario\Arbol Binario\obj\Debug\Arbol Binario.exe
+C:\Users\Francisco\Desktop\pinco\UDB\progra4\Lab\Guia 6 LP4\Arbol Binario\Arbol Binario\obj\Debug\Arbol Binario.pdb
+C:\Users\Usuario\Desktop\Arbol Binario\Arbol Binario\bin\Debug\Arbol Binario.exe.config
+C:\Users\Usuario\Desktop\Arbol Binario\Arbol Binario\obj\Debug\Arbol Binario.exe
+C:\Users\Usuario\Desktop\Arbol Binario\Arbol Binario\obj\Debug\Arbol Binario.pdb
+C:\Users\Usuario\Desktop\Arbol Binario\Arbol Binario\bin\Debug\Arbol Binario.exe
+C:\Users\Usuario\Desktop\Arbol Binario\Arbol Binario\bin\Debug\Arbol Binario.pdb
+C:\Users\Usuario\Desktop\Arbol Binario\Arbol Binario\obj\Debug\Arbol Binario.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Arbol Binario\Arbol Binario\obj\Debug\Arbol_Binario.Form1.resources
+C:\Users\Usuario\Desktop\Arbol Binario\Arbol Binario\obj\Debug\Arbol_Binario.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Arbol Binario\Arbol Binario\obj\Debug\Arbol Binario.csproj.GenerateResource.Cache
+C:\Users\moree_000\Desktop\Arbol Binario\Arbol Binario\Arbol Binario\bin\Debug\Arbol Binario.exe.config
+C:\Users\moree_000\Desktop\Arbol Binario\Arbol Binario\Arbol Binario\obj\Debug\Arbol Binario.exe
+C:\Users\moree_000\Desktop\Arbol Binario\Arbol Binario\Arbol Binario\obj\Debug\Arbol Binario.pdb
+C:\Users\moree_000\Desktop\Arbol Binario\Arbol Binario\Arbol Binario\bin\Debug\Arbol Binario.exe
+C:\Users\moree_000\Desktop\Arbol Binario\Arbol Binario\Arbol Binario\bin\Debug\Arbol Binario.pdb
+C:\Users\moree_000\Desktop\Arbol Binario\Arbol Binario\Arbol Binario\obj\Debug\Arbol Binario.csprojResolveAssemblyReference.cache
+C:\Users\moree_000\Desktop\Arbol Binario\Arbol Binario\Arbol Binario\obj\Debug\Arbol_Binario.Form1.resources
+C:\Users\moree_000\Desktop\Arbol Binario\Arbol Binario\Arbol Binario\obj\Debug\Arbol_Binario.Properties.Resources.resources
+C:\Users\moree_000\Desktop\Arbol Binario\Arbol Binario\Arbol Binario\obj\Debug\Arbol Binario.csproj.GenerateResource.Cache
+C:\Users\Usuario\Downloads\Guia 7 -progra IV sol\Arbol Binario\Arbol Binario\Arbol Binario\bin\Debug\Arbol Binario.exe.config
+C:\Users\Usuario\Downloads\Guia 7 -progra IV sol\Arbol Binario\Arbol Binario\Arbol Binario\obj\Debug\Arbol Binario.exe
+C:\Users\Usuario\Downloads\Guia 7 -progra IV sol\Arbol Binario\Arbol Binario\Arbol Binario\obj\Debug\Arbol Binario.pdb
+C:\Users\Usuario\Downloads\Guia 7 -progra IV sol\Arbol Binario\Arbol Binario\Arbol Binario\bin\Debug\Arbol Binario.exe
+C:\Users\Usuario\Downloads\Guia 7 -progra IV sol\Arbol Binario\Arbol Binario\Arbol Binario\bin\Debug\Arbol Binario.pdb
+C:\Users\Usuario\Downloads\Guia 7 -progra IV sol\Arbol Binario\Arbol Binario\Arbol Binario\obj\Debug\Arbol Binario.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Downloads\Guia 7 -progra IV sol\Arbol Binario\Arbol Binario\Arbol Binario\obj\Debug\Arbol_Binario.Form1.resources
+C:\Users\Usuario\Downloads\Guia 7 -progra IV sol\Arbol Binario\Arbol Binario\Arbol Binario\obj\Debug\Arbol_Binario.Properties.Resources.resources
+C:\Users\Usuario\Downloads\Guia 7 -progra IV sol\Arbol Binario\Arbol Binario\Arbol Binario\obj\Debug\Arbol Binario.csproj.GenerateResource.Cache
+C:\Users\marco\Desktop\Arbol Binario\Arbol Binario\bin\Debug\Arbol Binario.exe.config
+C:\Users\marco\Desktop\Arbol Binario\Arbol Binario\obj\Debug\Arbol Binario.exe
+C:\Users\marco\Desktop\Arbol Binario\Arbol Binario\obj\Debug\Arbol Binario.pdb
+C:\Users\marco\Desktop\Arbol Binario\Arbol Binario\bin\Debug\Arbol Binario.exe
+C:\Users\marco\Desktop\Arbol Binario\Arbol Binario\bin\Debug\Arbol Binario.pdb
+C:\Users\marco\Desktop\Arbol Binario\Arbol Binario\obj\Debug\Arbol Binario.csprojResolveAssemblyReference.cache
+C:\Users\marco\Desktop\Arbol Binario\Arbol Binario\obj\Debug\Arbol_Binario.Form1.resources
+C:\Users\marco\Desktop\Arbol Binario\Arbol Binario\obj\Debug\Arbol_Binario.Properties.Resources.resources
+C:\Users\marco\Desktop\Arbol Binario\Arbol Binario\obj\Debug\Arbol Binario.csproj.GenerateResource.Cache
+C:\Users\Usuario\Downloads\Arbol Binario\Arbol Binario\Arbol Binario\bin\Debug\Arbol Binario.exe.config
+C:\Users\Usuario\Downloads\Arbol Binario\Arbol Binario\Arbol Binario\bin\Debug\Arbol Binario.exe
+C:\Users\Usuario\Downloads\Arbol Binario\Arbol Binario\Arbol Binario\bin\Debug\Arbol Binario.pdb
+C:\Users\Usuario\Downloads\Arbol Binario\Arbol Binario\Arbol Binario\obj\Debug\Arbol Binario.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Downloads\Arbol Binario\Arbol Binario\Arbol Binario\obj\Debug\Arbol_Binario.Form1.resources
+C:\Users\Usuario\Downloads\Arbol Binario\Arbol Binario\Arbol Binario\obj\Debug\Arbol_Binario.Properties.Resources.resources
+C:\Users\Usuario\Downloads\Arbol Binario\Arbol Binario\Arbol Binario\obj\Debug\Arbol Binario.csproj.GenerateResource.Cache
+C:\Users\Usuario\Downloads\Arbol Binario\Arbol Binario\Arbol Binario\obj\Debug\Arbol Binario.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\Arbol Binario\Arbol Binario\Arbol Binario\obj\Debug\Arbol Binario.exe
+C:\Users\Usuario\Downloads\Arbol Binario\Arbol Binario\Arbol Binario\obj\Debug\Arbol Binario.pdb
+C:\Users\marco\Desktop\Arbol Binario\Arbol Binario\Arbol Binario\bin\Debug\Arbol Binario.exe.config
+C:\Users\marco\Desktop\Arbol Binario\Arbol Binario\Arbol Binario\obj\Debug\Arbol Binario.exe
+C:\Users\marco\Desktop\Arbol Binario\Arbol Binario\Arbol Binario\obj\Debug\Arbol Binario.pdb
+C:\Users\Nallely_toledo\Documents\proyectos\Barbie's clika\Arbol Binario\Arbol Binario\Arbol Binario\bin\Debug\Arbol Binario.exe.config
+C:\Users\Nallely_toledo\Documents\proyectos\Barbie's clika\Arbol Binario\Arbol Binario\Arbol Binario\bin\Debug\Arbol Binario.exe
+C:\Users\Nallely_toledo\Documents\proyectos\Barbie's clika\Arbol Binario\Arbol Binario\Arbol Binario\bin\Debug\Arbol Binario.pdb
+C:\Users\Nallely_toledo\Documents\proyectos\Barbie's clika\Arbol Binario\Arbol Binario\Arbol Binario\obj\Debug\Arbol Binario.csprojAssemblyReference.cache
+C:\Users\Nallely_toledo\Documents\proyectos\Barbie's clika\Arbol Binario\Arbol Binario\Arbol Binario\obj\Debug\Arbol_Binario.Form1.resources
+C:\Users\Nallely_toledo\Documents\proyectos\Barbie's clika\Arbol Binario\Arbol Binario\Arbol Binario\obj\Debug\Arbol_Binario.Properties.Resources.resources
+C:\Users\Nallely_toledo\Documents\proyectos\Barbie's clika\Arbol Binario\Arbol Binario\Arbol Binario\obj\Debug\Arbol Binario.csproj.GenerateResource.cache
+C:\Users\Nallely_toledo\Documents\proyectos\Barbie's clika\Arbol Binario\Arbol Binario\Arbol Binario\obj\Debug\Arbol Binario.csproj.CoreCompileInputs.cache
+C:\Users\Nallely_toledo\Documents\proyectos\Barbie's clika\Arbol Binario\Arbol Binario\Arbol Binario\obj\Debug\Arbol Binario.exe
+C:\Users\Nallely_toledo\Documents\proyectos\Barbie's clika\Arbol Binario\Arbol Binario\Arbol Binario\obj\Debug\Arbol Binario.pdb
