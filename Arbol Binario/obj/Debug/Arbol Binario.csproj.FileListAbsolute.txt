@@ -116,3 +116,12 @@ C:\Users\oscar\Desktop\A\2\Arbol Binario - copia\Arbol Binario\obj\Debug\Arbol_B
 C:\Users\oscar\Desktop\A\2\Arbol Binario - copia\Arbol Binario\obj\Debug\Arbol Binario.csproj.GenerateResource.cache
 C:\Users\oscar\Desktop\A\2\Arbol Binario - copia\Arbol Binario\obj\Debug\Arbol Binario.exe
 C:\Users\oscar\Desktop\A\2\Arbol Binario - copia\Arbol Binario\obj\Debug\Arbol Binario.pdb
+C:\Users\oscar\Desktop\Arbol Binario\Arbol Binario\bin\Debug\Arbol Binario.exe.config
+C:\Users\oscar\Desktop\Arbol Binario\Arbol Binario\bin\Debug\Arbol Binario.exe
+C:\Users\oscar\Desktop\Arbol Binario\Arbol Binario\bin\Debug\Arbol Binario.pdb
+C:\Users\oscar\Desktop\Arbol Binario\Arbol Binario\obj\Debug\Arbol Binario.csprojAssemblyReference.cache
+C:\Users\oscar\Desktop\Arbol Binario\Arbol Binario\obj\Debug\Arbol_Binario.FrmArbol.resources
+C:\Users\oscar\Desktop\Arbol Binario\Arbol Binario\obj\Debug\Arbol_Binario.Properties.Resources.resources
+C:\Users\oscar\Desktop\Arbol Binario\Arbol Binario\obj\Debug\Arbol Binario.csproj.GenerateResource.cache
+C:\Users\oscar\Desktop\Arbol Binario\Arbol Binario\obj\Debug\Arbol Binario.exe
+C:\Users\oscar\Desktop\Arbol Binario\Arbol Binario\obj\Debug\Arbol Binario.pdb

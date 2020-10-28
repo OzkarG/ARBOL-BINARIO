@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.IO;
 
 namespace Arbol_Binario
 {
@@ -19,10 +20,6 @@ namespace Arbol_Binario
         string r = "";
         string[] arreglo;
         int Dato = 0;
-        int m1=0;
-        int m2 = 0;
-        int m3 = 0;
-        int m5 = 0;
         int massimo = 0;
         int minino = 0;
         Arbol_Binario mi_Arbol = new Arbol_Binario(null); 
@@ -98,22 +95,7 @@ namespace Arbol_Binario
                     MessageBox.Show("nomas numeros del 1 al 99 amigo.");
                 else
                 {
-                    if (Dato % 1 == 0)
-                    {
-                        m1 = m1 + Dato;
-                    }
-                    if (Dato % 2 == 0)
-                    {
-                        m2 = m2 + Dato;
-                    }
-                    if (Dato % 3 == 0)
-                    {
-                        m3 = m3 + Dato;
-                    }
-                    if (Dato % 5 == 0)
-                    {
-                        m5 = m5 + Dato;
-                    }
+
                     mi_Arbol.Insertar(Dato);
                     txtDato.Clear();
                     txtDato.Focus();
@@ -137,23 +119,7 @@ namespace Arbol_Binario
                 Dato = int.Parse(txtDato.Text);
                 mi_Arbol.Eliminar(Dato);
                 txtDato.Clear();
-                txtDato.Focus();
-                if (Dato % 1 == 0)
-                {
-                    m1 = m1 - Dato;
-                }
-                if (Dato % 2 == 0)
-                {
-                    m2 = m2 - Dato;
-                }
-                if (Dato % 3 == 0)
-                {
-                    m3 = m3 - Dato;
-                }
-                if (Dato % 5 == 0)
-                {
-                    m5 = m5 - Dato;
-                }
+                txtDato.Focus();             
                
                 enc = 0;
                 Refresh();
@@ -197,7 +163,7 @@ namespace Arbol_Binario
                 preor = true;
                 abo.PreOrden();
                 
-                label5.Text ="En orden:  "  +  abo.pre_orden;
+
 
             }
             
@@ -207,13 +173,13 @@ namespace Arbol_Binario
                 abo.PostOrden();
 
                
-                label5.Text= "pre orden:  " + abo.post_orden;
+ 
             }
             else if (radioButton3.Checked == true)//Post-Orden
             {
                 enor = true;
                 abo.EnOrden();
-                label5.Text = "post orden:  " +  abo.en_orden;
+ 
             }
             Refresh();
             Refresh();
@@ -234,6 +200,48 @@ namespace Arbol_Binario
 
         private void label1_Click(object sender, EventArgs e)
         {
+
+        }
+
+        private void Guardarbttn_Click(object sender, EventArgs e)
+        {
+            if (saveFileDialog1.ShowDialog() == DialogResult.OK)
+            {
+                File.WriteAllText(saveFileDialog1.FileName + ".txt", r);
+
+            }
+
+        }
+
+        private void CargarBttn_Click(object sender, EventArgs e)
+        {
+            if (openFileDialog1.ShowDialog() == DialogResult.OK)
+            {                          
+                string DatosGuardados = File.ReadAllText(openFileDialog1.FileName);
+                string[] arreglo = DatosGuardados.Split();
+                string[] arregloborrar = r.Split();
+
+
+                for (int i = 0; i <= arregloborrar.Length - 2; i++)
+                {
+                    mi_Arbol.Eliminar(Convert.ToInt32(arregloborrar[i]));
+                    Refresh();
+                    Refresh();
+
+                }
+
+                
+                for (int i =0; i <= arreglo.Length-2; i++)
+                {
+                    r += arreglo[i].ToString();
+                    mi_Arbol.Insertar(Convert.ToInt32(arreglo[i]));
+                    
+                    Refresh();
+                    Refresh();
+
+                }
+
+            }
 
         }
     }
