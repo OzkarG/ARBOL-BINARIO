@@ -53,9 +53,9 @@
             // 
             this.btnInsertar.BackColor = System.Drawing.Color.Transparent;
             this.btnInsertar.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.btnInsertar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnInsertar.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnInsertar.Font = new System.Drawing.Font("Bahnschrift SemiBold", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnInsertar.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.btnInsertar.ForeColor = System.Drawing.Color.Black;
             this.btnInsertar.Location = new System.Drawing.Point(15, 462);
             this.btnInsertar.Name = "btnInsertar";
             this.btnInsertar.Size = new System.Drawing.Size(98, 23);
@@ -68,9 +68,9 @@
             // 
             this.btnEliminar.BackColor = System.Drawing.Color.Transparent;
             this.btnEliminar.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.btnEliminar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnEliminar.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnEliminar.Font = new System.Drawing.Font("Bahnschrift SemiBold", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnEliminar.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.btnEliminar.ForeColor = System.Drawing.Color.Black;
             this.btnEliminar.Location = new System.Drawing.Point(15, 496);
             this.btnEliminar.Name = "btnEliminar";
             this.btnEliminar.Size = new System.Drawing.Size(98, 23);
@@ -84,7 +84,7 @@
             this.btnBuscar.BackColor = System.Drawing.Color.Transparent;
             this.btnBuscar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnBuscar.Font = new System.Drawing.Font("Bahnschrift SemiBold", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnBuscar.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.btnBuscar.ForeColor = System.Drawing.Color.Black;
             this.btnBuscar.Location = new System.Drawing.Point(15, 530);
             this.btnBuscar.Name = "btnBuscar";
             this.btnBuscar.Size = new System.Drawing.Size(98, 23);
@@ -119,7 +119,7 @@
             this.btnRecorrer.BackColor = System.Drawing.Color.Transparent;
             this.btnRecorrer.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnRecorrer.Font = new System.Drawing.Font("Bahnschrift SemiBold", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnRecorrer.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.btnRecorrer.ForeColor = System.Drawing.Color.Black;
             this.btnRecorrer.Location = new System.Drawing.Point(17, 96);
             this.btnRecorrer.Name = "btnRecorrer";
             this.btnRecorrer.Size = new System.Drawing.Size(75, 23);
@@ -180,7 +180,7 @@
             this.btnIdentificar.BackColor = System.Drawing.Color.Transparent;
             this.btnIdentificar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnIdentificar.Font = new System.Drawing.Font("Bahnschrift SemiBold", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnIdentificar.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.btnIdentificar.ForeColor = System.Drawing.Color.Black;
             this.btnIdentificar.Location = new System.Drawing.Point(301, 448);
             this.btnIdentificar.Name = "btnIdentificar";
             this.btnIdentificar.Size = new System.Drawing.Size(100, 23);
@@ -194,7 +194,7 @@
             this.btnAltura.BackColor = System.Drawing.Color.Transparent;
             this.btnAltura.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnAltura.Font = new System.Drawing.Font("Bahnschrift SemiBold", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnAltura.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.btnAltura.ForeColor = System.Drawing.Color.Black;
             this.btnAltura.Location = new System.Drawing.Point(301, 477);
             this.btnAltura.Name = "btnAltura";
             this.btnAltura.Size = new System.Drawing.Size(125, 23);
@@ -224,8 +224,8 @@
             // 
             this.CargarBttn.BackColor = System.Drawing.Color.White;
             this.CargarBttn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.CargarBttn.Font = new System.Drawing.Font("Bahnschrift", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.CargarBttn.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.CargarBttn.Font = new System.Drawing.Font("Bahnschrift SemiBold", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.CargarBttn.ForeColor = System.Drawing.Color.Black;
             this.CargarBttn.Location = new System.Drawing.Point(301, 506);
             this.CargarBttn.Name = "CargarBttn";
             this.CargarBttn.Size = new System.Drawing.Size(100, 23);
@@ -237,8 +237,8 @@
             // Guardarbttn
             // 
             this.Guardarbttn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.Guardarbttn.Font = new System.Drawing.Font("Bahnschrift", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Guardarbttn.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.Guardarbttn.Font = new System.Drawing.Font("Bahnschrift SemiBold", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Guardarbttn.ForeColor = System.Drawing.Color.Black;
             this.Guardarbttn.Location = new System.Drawing.Point(301, 534);
             this.Guardarbttn.Name = "Guardarbttn";
             this.Guardarbttn.Size = new System.Drawing.Size(100, 23);

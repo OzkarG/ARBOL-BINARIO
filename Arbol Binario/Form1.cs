@@ -40,12 +40,12 @@ namespace Arbol_Binario
             g = en.Graphics;
             if (enor == true || posor == true || preor == true)
             {
-                mi_Arbol.colorear(g, this.Font, Brushes.LightBlue, Brushes.White, Pens.White, mi_Arbol.rais(), enor, preor, posor);
+                mi_Arbol.colorear(g, this.Font, Brushes.Black, Brushes.White, Pens.White, mi_Arbol.rais(), enor, preor, posor);
             }
             else if (iden==true)
             {
                 
-                mi_Arbol.DibujarArbol(g, this.Font, Brushes.LightBlue, Brushes.White, Pens.Black, Brushes.Black, enc, multiplo, massimo, minino);
+                mi_Arbol.DibujarArbol(g, this.Font, Brushes.Black, Brushes.White, Pens.Black, Brushes.Black, enc, multiplo, massimo, minino);
             }
             else if (alt == true)
             {
@@ -53,7 +53,7 @@ namespace Arbol_Binario
             }
             else
             {
-                mi_Arbol.DibujarArbol(g, this.Font, Brushes.LightBlue, Brushes.White, Pens.Black, Brushes.Black, enc, multiplo, 0, 0);
+                mi_Arbol.DibujarArbol(g, this.Font, Brushes.Black, Brushes.White, Pens.Black, Brushes.Black, enc, multiplo, 0, 0);
             }
             preor = false;
             enor = false;
